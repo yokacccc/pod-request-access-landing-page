@@ -42,7 +42,7 @@ body {
 
     min-height: 100vh;
     background-color: var(--color-blue-950);
-    background-image: url(src/assets/images/mobile/image-host.jpg);
+    background-image: url(../src/assets/images/mobile/image-host.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: overlay;
@@ -92,7 +92,7 @@ body {
         display: grid;
         justify-content: start;
         padding-left: 44px;
-        background-image: url(src/assets/images/tablet/image-host.jpg);
+        background-image: url(../src/assets/images/tablet/image-host.jpg);
         background-repeat: no-repeat;
         background-size: auto;
         background-blend-mode: normal;
@@ -156,7 +156,7 @@ body {
         display: grid;
         justify-content: start;
         padding-left: 160px;
-        background-image: url(src/assets/images/desktop/image-host.jpg);
+        background-image: url(../src/assets/images/desktop/image-host.jpg);
         background-repeat: no-repeat;
         background-size: 60%;
         background-blend-mode: normal;
